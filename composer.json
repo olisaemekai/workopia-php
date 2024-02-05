@@ -1,0 +1,16 @@
+{
+    "name": "olisaemekai/workopia",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "Olisaemeka Isife",
+            "email": "olisaemekafredrick@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
